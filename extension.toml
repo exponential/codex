@@ -1,0 +1,7 @@
+id = "codex-theme"
+name = "Codex Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Marcus White <exponential.dev@gmail.com>"]
+description = "Codex Theme"
+repository = "https://github.com/exponential/codex"
