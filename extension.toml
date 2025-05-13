@@ -3,5 +3,5 @@ name = "Codex Theme"
 version = "0.1.0"
 schema_version = 1
 authors = ["Marcus White <exponential.dev@gmail.com>"]
-description = "Codex Theme"
+description = "Codex Theme Originally ported from the One Theme"
 repository = "https://github.com/exponential/codex"
