@@ -3,5 +3,10 @@ name = "Codex Theme"
 version = "0.1.0"
 schema_version = 1
 authors = ["Marcus White <exponential.dev@gmail.com>"]
+<<<<<<< HEAD
+description = "Codex Theme inspired from from the One Theme"
+=======
 description = "Codex Theme"
+>>>>>>> parent of 7eb741b (More changes)
 repository = "https://github.com/exponential/codex"
+themes = ["themes/codex.json"]
