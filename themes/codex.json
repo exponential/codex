@@ -425,11 +425,19 @@
         "tab_bar.background": "#ebebec",
         "tab.inactive_background": "#ebebec",
         "tab.active_background": "#fafafa",
+<<<<<<< HEAD
         "search.match_background": "#5c79e2",
         "panel.background": "#ebebec",
         "panel.focused_border": null,
         "pane.focused_border": null,
         "scrollbar.thumb.background": "#383a41",
+=======
+        "search.match_background": "#5c79e266",
+        "panel.background": "#ebebec",
+        "panel.focused_border": null,
+        "pane.focused_border": null,
+        "scrollbar.thumb.background": "#383a414c",
+>>>>>>> origin/master
         "scrollbar.thumb.hover_background": "#dfdfe0",
         "scrollbar.thumb.border": "#dfdfe0",
         "scrollbar.track.background": "#00000000",
@@ -438,14 +446,20 @@
         "editor.background": "#fafafa",
         "editor.gutter.background": "#fafafa",
         "editor.subheader.background": "#ebebec",
+<<<<<<< HEAD
         "editor.active_line.background": "#ebebec",
+=======
+        "editor.active_line.background": "#ebebecbf",
+>>>>>>> origin/master
         "editor.highlighted_line.background": "#ebebec",
         "editor.line_number": "#b4b4bb",
         "editor.active_line_number": "#44454b",
         "editor.hover_line_number": "#61616b",
         "editor.invisible": "#a3a3a4",
+<<<<<<< HEAD
         "editor.wrap_guide": "#383a41",
 =======
+<<<<<<< Updated upstream
         "ghost_element.hover": "#dfdfe0ff",
         "ghost_element.active": "#cacacaff",
         "ghost_element.selected": "#cacacaff",
@@ -488,6 +502,10 @@
         "editor.invisible": "#a3a3a4ff",
         "editor.wrap_guide": "#383a410d",
 >>>>>>> parent of 7eb741b (More changes)
+=======
+        "editor.wrap_guide": "#383a410d",
+>>>>>>> origin/master
+>>>>>>> Stashed changes
         "editor.active_wrap_guide": "#383a411a",
         "editor.document_highlight.read_background": "#5c78e225",
         "editor.document_highlight.write_background": "#a3a3a466",
@@ -627,8 +645,13 @@
 <<<<<<< HEAD
             "color": "#7c7e6",
 =======
+<<<<<<< Updated upstream
             "color": "#7c7e86ff",
 >>>>>>> parent of 7eb741b (More changes)
+=======
+            "color": "#7c7e86",
+>>>>>>> origin/master
+>>>>>>> Stashed changes
             "font_style": "italic",
             "font_weight": null
           },

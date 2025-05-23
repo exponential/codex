@@ -6,7 +6,12 @@ authors = ["Marcus White <exponential.dev@gmail.com>"]
 <<<<<<< HEAD
 description = "Codex Theme inspired from from the One Theme"
 =======
+<<<<<<< Updated upstream
 description = "Codex Theme"
 >>>>>>> parent of 7eb741b (More changes)
+=======
+description = "Codex Theme Originally ported from the One Theme"
+>>>>>>> origin/master
+>>>>>>> Stashed changes
 repository = "https://github.com/exponential/codex"
 themes = ["themes/codex.json"]
